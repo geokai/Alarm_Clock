@@ -18738,8 +18738,10 @@ Micro-USB power supply</text>
 <attribute name="MF" x="284.48" y="162.56" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="284.48" y="162.56" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="U1" gate="A" x="63.5" y="223.52">
+<instance part="U1" gate="A" x="63.5" y="223.52" smashed="yes">
 <attribute name="MF" x="63.5" y="223.52" size="1.778" layer="96" display="off"/>
+<attribute name="NAME" x="51.5874" y="245.0338" size="2.0828" layer="95" ratio="10" rot="SR0"/>
+<attribute name="VALUE" x="50.9016" y="192.4812" size="2.0828" layer="96" ratio="10" rot="SR0"/>
 </instance>
 <instance part="Q1" gate="G$1" x="33.02" y="210.82" smashed="yes" rot="MR270">
 <attribute name="NAME" x="27.94" y="211.836" size="1.778" layer="95" rot="MR180"/>
